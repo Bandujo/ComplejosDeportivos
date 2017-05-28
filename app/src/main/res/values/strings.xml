@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Entrénate</string>
+    <string name="btn_Descarga"> DESCARGAR CENTROS DEPORTIVOS</string>
+    <string name="nom">Nombre </string>
+    <string name="dir">Dirección </string>
+    <string name="tel">Teléfono </string>
+    <string name="des">Descripción </string>
+    <string name="info">Información</string>
+    <string name="Centros">Centros Deportivos</string>
+    <string name="HeaderMenu">Centros deportivos de Gijón</string>
+    <string name="mapa">Mapa</string>
+    <string name="search_title">Búsqueda</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="principal">Principal</string>
+    <string name="opciones">Opciones</string>
+    <string name="navigation_drawer_open">Abierto</string>
+    <string name="navigation_drawer_close">Cerrado</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="prefText">Mostrar centros con tipo desconocido </string>
+</resources>

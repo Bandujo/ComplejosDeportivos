@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id ="@+id/prin"
+        android:title="@string/principal"
+        android:icon="@mipmap/ic_launcher"/>
+    <item
+        android:id ="@+id/map"
+        android:title="@string/mapa"
+        android:icon="@drawable/maps"/>
+    <item
+        android:id ="@+id/opciones"
+        android:title="@string/opciones"
+        android:icon="@drawable/opciones"/>
+
+</menu>

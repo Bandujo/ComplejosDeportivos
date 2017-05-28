@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Let\'s Train</string>
+    <string name="btn_Descarga">DOWNLOAD SPORT CENTERS</string>
+    <string name="Centros">Sport Centers</string>
+    <string name="HeaderMenu">Sport Centers of Gijón</string>
+    <string name="des">Description</string>
+    <string name="dir">Direction</string>
+    <string name="info">Information</string>
+    <string name="mapa">Map</string>
+    <string name="nom">Name</string>
+    <string name="tel">Phone</string>
+    <string name="search_hint">Search...</string>
+    <string name="search_title">Search</string>
+    <string name="opciones">Options</string>
+    <string name="principal">Main</string>
+    <string name="prefText">Show centers with unknown type</string>
+    <string name="preferencias">Preferences</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="navigation_drawer_open">Open</string>
+</resources>
